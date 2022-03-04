@@ -1,7 +1,6 @@
 ### Seja Bem-vindo, Meu nome é Hélio Uchôa👋
 
-- 🔭 Atualmente estou trabalhando como Servidor publico
-- 🌱 Estou estudando mais sobre Javascript
+- 🌱 Estou estudando mais sobre Javascript, Vue e angular
 - 👯 Contate-me no email: heliouchoarodrigues@gmail.com
 
 
