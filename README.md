@@ -1,6 +1,6 @@
 ### Seja Bem-vindo, Meu nome é Hélio Uchôa👋
 
-- 🌱 Estou estudando mais sobre Javascript e Bootstrap
+- 🌱 Estou estudando mais sobre Javascript e React
 - 👯 Contate-me no email: heliouchoarodrigues@gmail.com
 
 
